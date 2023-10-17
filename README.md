@@ -1,7 +1,12 @@
+![image](https://github.com/MarjhunCacao/MarjhunCacao/assets/144245978/fbc9145b-dc51-458f-aaff-9192de931f02)
+
+
+
 <h1 align="center">Hi 👋, I'm Marjhun B. Cacao</h1>
 <h3 align="center">A passionate Mechatronics Engineering Student from Philippines</h3>
 
-- 🎓 I’m currently studying at **Batangas State University**
+
+- 🎓 I’m currently studying at **Batangas State University**  
 
 - 📫 How to reach me **20-04909@g.batstate-u.edu.ph**
 
